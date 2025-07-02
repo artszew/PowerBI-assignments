@@ -1,6 +1,6 @@
 [EN]
 
-**PowerBi reports created using power query, DAX, custom visualizations and navigations.**
+# PowerBi reports created using power query, DAX, custom visualizations and navigations.
 
 The pdfs contain screenshots of the reports along with a description.
 
@@ -20,7 +20,7 @@ The pdfs contain screenshots of the reports along with a description.
 
 [PL]
 
-**Raporty PowerBi utworzone przy użyciu Power Query, DAX, niestandardowych wizualizacji i nawigacji.**
+# Raporty PowerBi utworzone przy użyciu Power Query, DAX, niestandardowych wizualizacji i nawigacji.
 
 Pliki PDF zawierają zrzuty ekranu raportów wraz z opisem.
 

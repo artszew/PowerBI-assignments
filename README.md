@@ -41,7 +41,7 @@ Reports in order from most advanced to simplest:
 - a one-sided report showing the income from various Disney productions from 1936 to 2016 inclusive.
 - the most important graph is the comparison of the "income" and "income adjusted for inflation" columns, which allows for a comparison of the success of productions from different years.
 
-### Report 7 - Energy Consumption Summary
+### Report 7 - Energy Consumption Dashboard
 - A 3-page summary of the consumption of 3 types of energy - water, gas and electricity - by various departments of a certain company.
 
 __________

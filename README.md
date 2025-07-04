@@ -19,7 +19,7 @@ Reports in order from most advanced to simplest:
 - a three-page review of the electors and media candidates for the new pope.
 - first page - main menu with navigation to other pages,
 - second page - cardinals - two bookmarks - the first one displays selected information about all cardinals with the right to vote (electors), the second one visualizes the figures chosen by the media as the main candidates for the position of pope,
-- third page - drillthrough - after selecting the selected elector from the table on the previous page, you can move to the drillthrought view showing information about this one, picked beore, cardinal.
+- third page - drillthrough - after selecting the selected elector from the table on the previous page, you can move to the drillthrough view showing information about this one, picked beore, cardinal.
 
 ### Report 3 - The Game Awards 2024
 - a two-page report presenting the PC/mobile games participating in The Game Awards 2024 competition using custom visualization,

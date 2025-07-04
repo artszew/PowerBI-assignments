@@ -2,38 +2,38 @@
 
 # PowerBi reports created using power query, DAX, custom visualizations and navigations.
 
-The pdfs contain screenshots of the reports along with a description.
+Reports in order from most advanced to simplest:
 
-- Report 1 - Energy Consumption Dashboard 
+### Report 1 - Project - summary of available players, clubs and leagues in FIFA in the 2016-2021 editions
 
-- Report 2 - Disney Movies 
+### Report 2 - Conclave 2025 - review of electors and media candidates for the new pope.
 
-- Report 3 - WTA Tour 2025 Gantt Chart 
+### Report 3 - Movies and series available on the HBO/MAX platform in 2016.
 
-- Report 4 - The Game Awards 2024 
+### Report 4 - Nominations and winners of The Game Awards 2024.
 
-- Report 5 - HBO Movies&Serials 2016 
+### Report 5 - Gantt chart of the WTA Tour 2025 (Women's Tennis Association).
 
-- Report 6 - Conclave 2025 election 
+### Report 6 - Report on revenue from Disney films produced in the years 1936-2016.
 
-- Project - big project regarding...
+### Report 7 - Summary of the consumption of 3 types of energy by various branches of a certain company.
 
 [PL]
 
 # Raporty PowerBi utworzone przy użyciu Power Query, DAX, niestandardowych wizualizacji i nawigacji.
 
-Pliki PDF zawierają zrzuty ekranu raportów wraz z opisem.
+Raporty w kolejności od najbardziej zaawansowanych do najprostszych:
 
-- Raport 1 - Panel zużycia energii
+### Raport 1 - Projekt - podsumowanie dostępnych piłkarzy, klubów i lig w grze FIFA w edycjach 2016-2021
 
-- Raport 2 - Raport dotyczący filmów Disneya
+### Raport 2 - Conclave 2025 - przegląd elektorów i medialnych kandydatów na nowego papieża.
 
-- Raport 3 - Wykres Gantta WTA Tour 2025
+### Raport 3 - Filmy i seriale dostępne na platformie HBO/MAX w 2016 roku.
 
-- Raport 4 - The Game Awards 2024
+### Raport 4 - Nominacje i zwycięzcy ceremonii The Game Awards 2024.
 
-- Raport 5 - Filmy i seriale dostępne na HBO w 2016 roku
+### Raport 5 - Wykres Gantta z rozgrywek WTA Tour 2025 (Women's Tennis Association).
 
-- Raport 6 - Wybory - Conclave 2025
+### Raport 6 - Raport dotyczący przychodów z filmów Disneya wyprodukowanych w latach 1936-2016.
 
-- Projekt - 
+### Raport 7 - Podsumowanie zużycia 3 rodzajów energii przez różne oddziały pewnego przedsiębiorstwa.

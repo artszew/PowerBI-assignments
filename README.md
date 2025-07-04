@@ -18,6 +18,8 @@ Reports in order from most advanced to simplest:
 
 ### Report 7 - Summary of the consumption of 3 types of energy by various branches of a certain company.
 
+__________
+
 [PL]
 
 # Raporty PowerBi utworzone przy użyciu Power Query, DAX, niestandardowych wizualizacji i nawigacji.

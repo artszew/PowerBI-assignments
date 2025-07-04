@@ -4,19 +4,26 @@
 
 Reports in order from most advanced to simplest:
 
-### Report 1 - Project - summary of available players, clubs and leagues in FIFA in the 2016-2021 editions
+### Report 1 - Project on your own dataset
+- summary of available footballers, clubs and leagues in FIFA in the 2016-2021 editions.
 
-### Report 2 - Conclave 2025 - review of electors and media candidates for the new pope.
+### Report 2 - Conclave 2025
+- review of electors and media candidates for the new pope.
 
-### Report 3 - Movies and series available on the HBO/MAX platform in 2016.
+### Report 3 - MAX 2016
+- two-page report of films and series available on the HBO/MAX platform in 2016.
 
-### Report 4 - Nominations and winners of The Game Awards 2024.
+### Report 4 - Energy Summary
+- 3-page summary of the consumption of 3 types of energy by various branches of a certain company.
 
-### Report 5 - Gantt chart of the WTA Tour 2025 (Women's Tennis Association).
+### Report 5 - WTA Tour 2025 (Women's Tennis Association).
+- Gantt chart showing tennis tournaments played within the WTA in 2025, taking into account the number of games played so far (current date).
 
-### Report 6 - Report on revenue from Disney films produced in the years 1936-2016.
+### Report 6 - Disney 1936-2016.
+- a report showing the revenues of various Disney productions from 1936 to 2016 inclusive.
 
-### Report 7 - Summary of the consumption of 3 types of energy by various branches of a certain company.
+### Report 7 - The Game Awards 2024 Ceremony.
+- a presentation of the nominated games and winners in each category in a custom chart.
 
 __________
 
@@ -26,16 +33,23 @@ __________
 
 Raporty w kolejności od najbardziej zaawansowanych do najprostszych:
 
-### Raport 1 - Projekt - podsumowanie dostępnych piłkarzy, klubów i lig w grze FIFA w edycjach 2016-2021
+### Raport 1 - Projekt na własnym zbiorze danych 
+- podsumowanie dostępnych piłkarzy, klubów i lig w grze FIFA w edycjach 2016-2021.
 
-### Raport 2 - Conclave 2025 - przegląd elektorów i medialnych kandydatów na nowego papieża.
+### Raport 2 - Conclave 2025
+- przegląd elektorów i medialnych kandydatów na nowego papieża.
 
-### Raport 3 - Filmy i seriale dostępne na platformie HBO/MAX w 2016 roku.
+### Raport 3 - MAX 2016
+- dwustronnicowy raport filmów i seriali dostępnych na platformie HBO/MAX w 2016 roku.
 
-### Raport 4 - Nominacje i zwycięzcy ceremonii The Game Awards 2024.
+### Raport 4 - Podsumowanie energii
+- 3-stronnicowe podsumowanie zużycia 3 rodzajów energii przez różne oddziały pewnego przedsiębiorstwa.
 
-### Raport 5 - Wykres Gantta z rozgrywek WTA Tour 2025 (Women's Tennis Association).
+### Raport 5 - WTA Tour 2025 (Women's Tennis Association).
+- wykres Gantta przedstawiajacy turnieje tenisowe rozgrywane w ramach WTA w roku 2025 z uwzględnieniem liczby odbytych dotychczas (data bieżąca) rozgrywek.
 
-### Raport 6 - Raport dotyczący przychodów z filmów Disneya wyprodukowanych w latach 1936-2016.
+### Raport 6 - Disney 1936-2016.
+- raport przedstawiajacy dochody z różnych produkcji firmy Disney od roku 1936 do 2016 włącznie.
 
-### Raport 7 - Podsumowanie zużycia 3 rodzajów energii przez różne oddziały pewnego przedsiębiorstwa.
+### Raport 7 - Ceremonia The Game Awards 2024.
+- przedstawienie nominowanych gier i zwycięzców w poszczególnych kategoriach na wykresie niestandardowym.

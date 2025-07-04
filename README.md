@@ -19,7 +19,7 @@ Reports in order from most advanced to simplest:
 - a three-page review of the electors and media candidates for the new pope.
 - first page - main menu with navigation to other pages,
 - second page - cardinals - two bookmarks - the first one displays selected information about all cardinals with the right to vote (electors), the second one visualizes the figures chosen by the media as the main candidates for the position of pope,
-- third page - drillthrought - after selecting the selected elector from the table on the previous page, you can move to the drillthrought view showing.
+- third page - drillthrough - after selecting the selected elector from the table on the previous page, you can move to the drillthrought view showing information about this one, picked beore, cardinal.
 
 ### Report 3 - The Game Awards 2024
 - a two-page report presenting the PC/mobile games participating in The Game Awards 2024 competition using custom visualization,
@@ -65,8 +65,8 @@ Raporty w kolejności od najbardziej zaawansowanych do najprostszych:
 ### Raport 2 - Conclave 2025
 - trzystronnicowy przegląd elektorów i medialnych kandydatów na nowego papieża.
 - pierwsza strona - menu główne z nawigacją do pozostałych stron,
-- druga strona - kardynałowie - dwa bookmarki - w pierwszym z nich wyświetlane są wybrane informacje na temat wszystkich kardynałów z prawem głosu (elektorów), w drugim  z nich wizualizacje skupiają się na sylwetkach typowanych przed media na głównych kandydatów na stanowisko papieża,
-- trzecia strona - drillthrought - po wybraniu z tabeli na poprzedniej stronie wybranego elektora można przenieść się do widoku drillthrought ukazującego.
+- druga strona - kardynałowie - dwa bookmarki - w pierwszym z nich są wizualizacje skupiające się na sylwetkach typowanych przed media na głównych kandydatów na stanowisko papieża, a w drugim - jest podobny widok, tylko że umożliwiający analizę kardynałów z prawem głosu (elektorów),
+- trzecia strona - drillthrough - po wybraniu z tabeli na poprzedniej stronie wybranego elektora można przenieść się do widoku drillthrough ukazującego wybrane szczegóły na temat tego jednego kardynała.
 
 ### Raport 3 - The Game Awards 2024
 - dwustronnicowy raport przedstawiający gry komputerowe/mobilne biorące udział w konkursie The Game Awards 2024 z wykorzystanem wizualizacji niestandardowej,

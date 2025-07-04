@@ -1,6 +1,7 @@
 [EN]
 
-# PowerBi reports created using Power Query, DAX, custom visualizations, navigation, the ability to filter data on multiple columns, and also to protect measures from "blanks".
+# PowerBi reports 
+### Created using Power Query, DAX, custom visualizations, navigation, the ability to filter data on multiple columns, and also to protect measures from "blanks".
 
 In addition to the PowerBi files, the folders also contain a readme file with screenshots of each report.
 

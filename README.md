@@ -19,7 +19,7 @@ Reports in order from most advanced to simplest:
 ### Report 5 - WTA Tour 2025 (Women's Tennis Association).
 - Gantt chart showing tennis tournaments played within the WTA in 2025, taking into account the number of games played so far (current date).
 
-### Report 6 - Disney 1936-2016.
+### Report 6 - Disney Movies 1936-2016.
 - a report showing the revenues of various Disney productions from 1936 to 2016 inclusive.
 
 ### Report 7 - Energy Summary
@@ -48,7 +48,7 @@ Raporty w kolejności od najbardziej zaawansowanych do najprostszych:
 ### Raport 5 - MAX 2016
 - dwustronnicowy raport filmów i seriali dostępnych na platformie HBO/MAX w 2016 roku.
 
-### Raport 6 - Disney 1936-2016.
+### Raport 6 - Filmy Disneya 1936-2016.
 - raport przedstawiajacy dochody z różnych produkcji firmy Disney od roku 1936 do 2016 włącznie.
 
 ### Raport 7 - Podsumowanie energii

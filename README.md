@@ -3,7 +3,7 @@
 # PowerBi reports 
 ### Created using Power Query, DAX, custom visualizations, navigation, the ability to filter data on multiple columns, and also to protect measures from "blanks".
 
-In addition to the PowerBi files, the folders also contain a readme file with screenshots of each report.
+### In addition to the PowerBi files, the folders also contain a readme file with screenshots of each report.
 
 Reports in order from most advanced to simplest:
 
@@ -42,7 +42,7 @@ Reports in order from most advanced to simplest:
 - the most important graph is the comparison of the "income" and "income adjusted for inflation" columns, which allows for a comparison of the success of productions from different years.
 
 ### Report 7 - Energy Consumption Dashboard
-- A 3-page summary of the consumption of 3 types of energy - water, gas and electricity - by various departments of a certain company.
+- A 4-page summary of the consumption of 3 types of energy - water, gas and electricity - by various departments of a certain company.
 
 __________
 
@@ -89,5 +89,5 @@ Raporty w kolejności od najbardziej zaawansowanych do najprostszych:
 - najważniejszym wykresem jest porównanie kolumny "dochód" i "dochód z uwzględnieniem inflacji", która umożliwia porównanie sukcesu produkcji z różnych lat.
 
 ### Raport 7 - Podsumowanie zużycia energii
-- 3-stronnicowe podsumowanie zużycia 3 rodzajów energii - wody, gazu i prądu - przez różne oddziały pewnego przedsiębiorstwa.
+- 4-stronnicowe podsumowanie zużycia 3 rodzajów energii - wody, gazu i prądu - przez różne oddziały pewnego przedsiębiorstwa.
 

@@ -3,7 +3,7 @@
 # PowerBi reports 
 ### Created using Power Query, DAX, custom visualizations, navigation, the ability to filter data on multiple columns, and also to protect measures from "blanks".
 
-### In addition to the PowerBi files, the folders also contain a readme file with screenshots of each report.
+### Each folder also contains a report preview thanks to screenshots included in the README files.
 
 Reports in order from most advanced to simplest:
 
@@ -50,7 +50,7 @@ __________
 
 # Raporty PowerBi utworzone przy użyciu Power Query, DAX, niestandardowych wizualizacji, nawigacji, możliwością filtrowania danych na po wielu kolumnach, a także zabezpieczeniem miar przed "blankami".
 
-W folderach oprócz plików PowerBi znajduje się także plik readme z pokazowymi screenami z każdego raportu.
+### W każdym folderze znajduje się również podgląd raportów dzięki screenom zamieszczonym w plikach README.
 
 Raporty w kolejności od najbardziej zaawansowanych do najprostszych:
 
